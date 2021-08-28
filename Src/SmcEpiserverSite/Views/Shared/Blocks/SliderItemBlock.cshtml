@@ -1,0 +1,8 @@
+@using SmcEpiserverSite.Models.Blocks
+@model SliderItemBlock
+
+<div class="slider__block"
+     data-image="@Url.ContentUrl(Model.Image)"
+     data-url="@Url.ContentUrl(Model.LinkUrl)"
+     data-text="@Model.LinkText"
+     data-action-text="@Model.ActionText"></div>
