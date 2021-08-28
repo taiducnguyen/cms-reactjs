@@ -631,6 +631,7 @@
     <Content Include="Views\Shared\Blocks\SliderBlock.cshtml" />
     <Content Include="Views\Shared\_BodyStart.cshtml" />
     <Content Include="Views\Shared\Blocks\SliderItemBlock.cshtml" />
+    <Content Include="Views\Shared\_BodyEnd.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
