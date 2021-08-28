@@ -6,16 +6,16 @@ using System.Web.Mvc;
 using EPiServer.Find.Framework.Statistics;
 using EPiServer.Find.Helpers.Text;
 using EPiServer.Framework.Web.Resources;
-using SmcEpiserverSite.Models.Pages;
-using SmcEpiserverSite.Models.ViewModels;
+using CmsEpiserverSite.Models.Pages;
+using CmsEpiserverSite.Models.ViewModels;
 using EPiServer.Find.UI;
 using EPiServer.Find.UnifiedSearch;
 using EPiServer.Find;
-using SmcEpiserverSite.Controllers;
+using CmsEpiserverSite.Controllers;
 using EPiServer.Web;
 using EPiServer.Find.Cms;
 
-namespace SmcEpiserverSite.Controllers
+namespace CmsEpiserverSite.Controllers
 {
     public class FindSearchPageController : PageControllerBase<FindSearchPage>
     {

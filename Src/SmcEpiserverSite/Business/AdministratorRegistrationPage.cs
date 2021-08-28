@@ -6,7 +6,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace SmcEpiserverSite
+namespace CmsEpiserverSite
 {
     public static class AdministratorRegistrationPage
     {

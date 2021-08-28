@@ -1,9 +1,9 @@
 using System.Web;
 using System.Web.Mvc;
 using EPiServer.SpecializedProperties;
-using SmcEpiserverSite.Models.Blocks;
+using CmsEpiserverSite.Models.Blocks;
 
-namespace SmcEpiserverSite.Models.ViewModels
+namespace CmsEpiserverSite.Models.ViewModels
 {
     public class LayoutModel
     {

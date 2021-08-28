@@ -3,15 +3,15 @@ using System.Web.Mvc;
 using EPiServer.Core;
 using EPiServer.Framework.DataAnnotations;
 using EPiServer.Framework.Web;
-using SmcEpiserverSite.Business;
-using SmcEpiserverSite.Models.Pages;
-using SmcEpiserverSite.Models.ViewModels;
+using CmsEpiserverSite.Business;
+using CmsEpiserverSite.Models.Pages;
+using CmsEpiserverSite.Models.ViewModels;
 using EPiServer.Web;
 using EPiServer.Web.Mvc;
 using EPiServer;
 using EPiServer.Framework.Web.Mvc;
 
-namespace SmcEpiserverSite.Controllers
+namespace CmsEpiserverSite.Controllers
 {
     /* Note: as the content area rendering on Alloy is customized we create ContentArea instances
     * which we render in the preview view in order to provide editors with a preview which is as

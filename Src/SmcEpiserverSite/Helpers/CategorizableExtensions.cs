@@ -5,7 +5,7 @@ using EPiServer.Core;
 using EPiServer.DataAbstraction;
 using EPiServer.ServiceLocation;
 
-namespace SmcEpiserverSite.Helpers
+namespace CmsEpiserverSite.Helpers
 {
     /// <summary>
     /// Provides extension methods for categorizable content

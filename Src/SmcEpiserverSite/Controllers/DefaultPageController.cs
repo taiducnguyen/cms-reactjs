@@ -2,10 +2,10 @@ using System;
 using System.Web.Mvc;
 using EPiServer;
 using EPiServer.Framework.DataAnnotations;
-using SmcEpiserverSite.Models.Pages;
-using SmcEpiserverSite.Models.ViewModels;
+using CmsEpiserverSite.Models.Pages;
+using CmsEpiserverSite.Models.ViewModels;
 
-namespace SmcEpiserverSite.Controllers
+namespace CmsEpiserverSite.Controllers
 {
     /// <summary>
     /// Concrete controller that handles all page types that don't have their own specific controllers.

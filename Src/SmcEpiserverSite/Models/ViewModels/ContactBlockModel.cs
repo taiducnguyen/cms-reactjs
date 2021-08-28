@@ -1,10 +1,10 @@
 using System.Web;
 using System.ComponentModel.DataAnnotations;
-using SmcEpiserverSite.Models.Pages;
+using CmsEpiserverSite.Models.Pages;
 using EPiServer.Web;
 using EPiServer.Core;
 
-namespace SmcEpiserverSite.Models.ViewModels
+namespace CmsEpiserverSite.Models.ViewModels
 {
     public class ContactBlockModel
     {

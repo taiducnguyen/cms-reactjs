@@ -1,6 +1,6 @@
 using EPiServer.DataAnnotations;
 
-namespace SmcEpiserverSite.Models
+namespace CmsEpiserverSite.Models
 {
     /// <summary>
     /// Attribute to set the default thumbnail for site page and block types

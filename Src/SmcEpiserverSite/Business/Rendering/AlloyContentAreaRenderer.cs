@@ -7,7 +7,7 @@ using EPiServer.Web.Mvc;
 using EPiServer.Web.Mvc.Html;
 using EPiServer;
 
-namespace SmcEpiserverSite.Business.Rendering
+namespace CmsEpiserverSite.Business.Rendering
 {
     /// <summary>
     /// Extends the default <see cref="ContentAreaRenderer"/> to apply custom CSS classes to each <see cref="ContentFragment"/>.

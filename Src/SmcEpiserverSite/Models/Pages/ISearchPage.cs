@@ -1,4 +1,4 @@
-namespace SmcEpiserverSite.Models.Pages
+namespace CmsEpiserverSite.Models.Pages
 {
     /// <summary>
     /// Marker interface for search implementation

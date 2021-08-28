@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using EPiServer.Shell.ObjectEditing.EditorDescriptors;
 using EPiServer.Shell.ObjectEditing;
 
-namespace SmcEpiserverSite.Business.EditorDescriptors
+namespace CmsEpiserverSite.Business.EditorDescriptors
 {
     /// <summary>
     /// Register an editor for StringList properties

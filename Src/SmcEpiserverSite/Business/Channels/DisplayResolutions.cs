@@ -1,4 +1,4 @@
-namespace SmcEpiserverSite.Business.Channels
+namespace CmsEpiserverSite.Business.Channels
 {
     /// <summary>
     /// Defines resolution for desktop displays

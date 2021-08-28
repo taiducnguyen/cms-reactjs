@@ -1,6 +1,6 @@
 using EPiServer.Core;
 
-namespace SmcEpiserverSite.Models.Pages
+namespace CmsEpiserverSite.Models.Pages
 {
     public interface IHasRelatedContent
     {

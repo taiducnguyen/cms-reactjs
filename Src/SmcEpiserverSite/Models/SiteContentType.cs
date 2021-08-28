@@ -1,6 +1,6 @@
 using EPiServer.DataAnnotations;
 
-namespace SmcEpiserverSite.Models
+namespace CmsEpiserverSite.Models
 {
     /// <summary>
     /// Attribute used for site content types to set default attribute values

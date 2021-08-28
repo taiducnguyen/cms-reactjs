@@ -2,7 +2,7 @@ using System.Web;
 using System.Web.WebPages;
 using EPiServer.Web;
 
-namespace SmcEpiserverSite.Business.Channels
+namespace CmsEpiserverSite.Business.Channels
 {
     //<summary>
     //Defines the 'Mobile' content channel

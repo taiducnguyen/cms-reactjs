@@ -6,7 +6,7 @@ using EPiServer.Framework.Web;
 using EPiServer.ServiceLocation;
 using EPiServer;
 
-namespace SmcEpiserverSite.Business
+namespace CmsEpiserverSite.Business
 {
     /// <summary>
     /// Extension methods for content

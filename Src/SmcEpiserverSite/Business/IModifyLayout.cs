@@ -1,6 +1,6 @@
-using SmcEpiserverSite.Models.ViewModels;
+using CmsEpiserverSite.Models.ViewModels;
 
-namespace SmcEpiserverSite.Business
+namespace CmsEpiserverSite.Business
 {
     /// <summary>
     /// Defines a method which may be invoked by PageContextActionFilter allowing controllers

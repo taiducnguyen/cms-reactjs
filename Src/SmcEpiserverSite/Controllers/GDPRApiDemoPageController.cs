@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using EPiServer.Find;
 using EPiServer.Find.Statistics;
-using SmcEpiserverSite.Controllers;
-using SmcEpiserverSite.Models.ViewModels;
+using CmsEpiserverSite.Controllers;
+using CmsEpiserverSite.Models.ViewModels;
 using System.Web.Mvc;
 
-namespace SmcEpiserverSite.Controllers
+namespace CmsEpiserverSite.Controllers
 {
     public class GDPRApiDemoPageController : PageControllerBase<GDPRApiDemoPage>
     {

@@ -1,10 +1,10 @@
 using EPiServer.Find.Statistics.Api;
-using SmcEpiserverSite.Models.ViewModels;
+using CmsEpiserverSite.Models.ViewModels;
 using System.Collections.Generic;
 using System.Web;
 using EPiServer.Find.Statistics;
 
-namespace SmcEpiserverSite.Models.ViewModels
+namespace CmsEpiserverSite.Models.ViewModels
 {
     public class GDPRDemoModel : PageViewModel<GDPRApiDemoPage>
     {

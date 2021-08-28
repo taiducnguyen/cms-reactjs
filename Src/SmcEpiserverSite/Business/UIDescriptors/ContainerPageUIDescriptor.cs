@@ -1,8 +1,8 @@
 using EPiServer.Editor;
 using EPiServer.Shell;
-using SmcEpiserverSite.Models.Pages;
+using CmsEpiserverSite.Models.Pages;
 
-namespace SmcEpiserverSite.Business.UIDescriptors
+namespace CmsEpiserverSite.Business.UIDescriptors
 {
     /// <summary>
     /// Describes how the UI should appear for <see cref="ContainerPage"/> content.

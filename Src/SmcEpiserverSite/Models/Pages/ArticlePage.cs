@@ -1,4 +1,4 @@
-namespace SmcEpiserverSite.Models.Pages
+namespace CmsEpiserverSite.Models.Pages
 {
     /// <summary>
     /// Used primarily for publishing news articles on the website

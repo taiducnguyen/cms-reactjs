@@ -2,10 +2,10 @@ using System.Web.Mvc;
 using EPiServer.Framework;
 using EPiServer.Framework.Initialization;
 using EPiServer.ServiceLocation;
-using SmcEpiserverSite.Business.Rendering;
+using CmsEpiserverSite.Business.Rendering;
 using EPiServer.Web;
 
-namespace SmcEpiserverSite.Business.Initialization
+namespace CmsEpiserverSite.Business.Initialization
 {
     /// <summary>
     /// Module for customizing templates and rendering.

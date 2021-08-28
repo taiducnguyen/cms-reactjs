@@ -2,14 +2,14 @@ using System;
 using System.Collections.Generic;
 using System.Web;
 using System.Web.Mvc;
-using SmcEpiserverSite.Models.Pages;
+using CmsEpiserverSite.Models.Pages;
 using EPiServer.Find.UnifiedSearch;
-using SmcEpiserverSite.Models.ViewModels;
+using CmsEpiserverSite.Models.ViewModels;
 using EPiServer.ServiceLocation;
 using EPiServer.Find.Framework.Statistics;
 using EPiServer.Web;
 
-namespace SmcEpiserverSite.Models.ViewModels
+namespace CmsEpiserverSite.Models.ViewModels
 {
     public class FindSearchContentModel : PageViewModel<FindSearchPage>
     {

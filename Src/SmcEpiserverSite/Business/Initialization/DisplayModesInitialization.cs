@@ -4,10 +4,10 @@ using System.Web.WebPages;
 using EPiServer.Framework;
 using EPiServer.Framework.Initialization;
 using EPiServer.ServiceLocation;
-using SmcEpiserverSite.Business.Channels;
+using CmsEpiserverSite.Business.Channels;
 using EPiServer.Web;
 
-namespace SmcEpiserverSite.Business.Initialization
+namespace CmsEpiserverSite.Business.Initialization
 {
     /// <summary>
     /// Adds a new display mode for mobile which is active if the mobile channel is active in addition to if the request is from a mobile device (like the default one)

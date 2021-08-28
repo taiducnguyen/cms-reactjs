@@ -1,12 +1,12 @@
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using SmcEpiserverSite.Models.Blocks;
+using CmsEpiserverSite.Models.Blocks;
 using EPiServer.Core;
 using EPiServer.DataAbstraction;
 using EPiServer.DataAnnotations;
-using SmcEpiserverSite.Models.Properties;
+using CmsEpiserverSite.Models.Properties;
 
-namespace SmcEpiserverSite.Models.Pages
+namespace CmsEpiserverSite.Models.Pages
 {
     /// <summary>
     /// Used to present a single product

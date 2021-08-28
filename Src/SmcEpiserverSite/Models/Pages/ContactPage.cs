@@ -1,9 +1,9 @@
 using System.ComponentModel.DataAnnotations;
-using SmcEpiserverSite.Business.Rendering;
+using CmsEpiserverSite.Business.Rendering;
 using EPiServer.Web;
 using EPiServer.Core;
 
-namespace SmcEpiserverSite.Models.Pages
+namespace CmsEpiserverSite.Models.Pages
 {
     /// <summary>
     /// Represents contact details for a contact person

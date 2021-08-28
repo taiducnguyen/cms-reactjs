@@ -7,7 +7,7 @@ using EPiServer.ServiceLocation;
 using EPiServer.Web.Routing;
 using EPiServer;
 
-namespace SmcEpiserverSite.Helpers
+namespace CmsEpiserverSite.Helpers
 {
     public static class UrlHelpers
     {

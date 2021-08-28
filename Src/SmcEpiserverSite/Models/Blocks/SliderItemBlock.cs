@@ -6,7 +6,7 @@ using EPiServer.Core;
 using EPiServer;
 using System.ComponentModel;
 
-namespace SmcEpiserverSite.Models.Blocks
+namespace CmsEpiserverSite.Models.Blocks
 {
     /// <summary>
     /// Used for a slider items block

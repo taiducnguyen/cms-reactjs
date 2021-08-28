@@ -7,9 +7,9 @@ using Microsoft.Owin;
 using Microsoft.Owin.Security.Cookies;
 using Owin;
 
-[assembly: OwinStartup(typeof(SmcEpiserverSite.Startup))]
+[assembly: OwinStartup(typeof(CmsEpiserverSite.Startup))]
 
-namespace SmcEpiserverSite
+namespace CmsEpiserverSite
 {
     public class Startup
     {

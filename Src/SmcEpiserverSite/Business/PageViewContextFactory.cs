@@ -3,15 +3,15 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 using System.Web.Security;
-using SmcEpiserverSite.Models.Pages;
-using SmcEpiserverSite.Models.ViewModels;
+using CmsEpiserverSite.Models.Pages;
+using CmsEpiserverSite.Models.ViewModels;
 using EPiServer;
 using EPiServer.Core;
 using EPiServer.Data;
 using EPiServer.Web;
 using EPiServer.Web.Routing;
 
-namespace SmcEpiserverSite.Business
+namespace CmsEpiserverSite.Business
 {
     public class PageViewContextFactory
     {

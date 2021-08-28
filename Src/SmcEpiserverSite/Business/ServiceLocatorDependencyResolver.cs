@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web.Mvc;
 using EPiServer.ServiceLocation;
 
-namespace SmcEpiserverSite.Business
+namespace CmsEpiserverSite.Business
 {
     public class ServiceLocatorDependencyResolver : IDependencyResolver
     {

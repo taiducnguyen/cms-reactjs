@@ -4,7 +4,7 @@ using EPiServer.DataAbstraction;
 using EPiServer.DataAnnotations;
 using EPiServer.Web;
 
-namespace SmcEpiserverSite.Models.Blocks
+namespace CmsEpiserverSite.Models.Blocks
 {
     /// <summary>
     /// Used to provide a stylized entry point to a page on the site

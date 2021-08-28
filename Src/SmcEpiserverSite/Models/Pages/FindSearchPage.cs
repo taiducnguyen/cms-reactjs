@@ -1,20 +1,20 @@
 using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
-using SmcEpiserverSite.Models;
-using SmcEpiserverSite.Models.Pages;
+using CmsEpiserverSite.Models;
+using CmsEpiserverSite.Models.Pages;
 using EPiServer.DataAnnotations;
 using EPiServer.DataAbstraction;
 using EPiServer.Core;
-using SmcEpiserverSite.Models.Blocks;
+using CmsEpiserverSite.Models.Blocks;
 
-namespace SmcEpiserverSite.Models.Pages
+namespace CmsEpiserverSite.Models.Pages
 {
     /// <summary>
     /// Used to provide on-site search
     /// </summary>
     [SiteContentType(
         GUID = "AAC25733-1D21-4F82-B031-11E626C91E30",
-        GroupName = SmcEpiserverSite.Global.GroupNames.Specialized,
+        GroupName = CmsEpiserverSite.Global.GroupNames.Specialized,
         DisplayName = "SearchPage")]
     [SiteImageUrl]
     public class FindSearchPage : SitePageData, IHasRelatedContent, ISearchPage

@@ -2,11 +2,11 @@ using System.ComponentModel.DataAnnotations;
 using EPiServer.Core;
 using EPiServer.DataAbstraction;
 using EPiServer.DataAnnotations;
-using SmcEpiserverSite.Business.Rendering;
-using SmcEpiserverSite.Models.Properties;
+using CmsEpiserverSite.Business.Rendering;
+using CmsEpiserverSite.Models.Properties;
 using EPiServer.Web;
 
-namespace SmcEpiserverSite.Models.Pages
+namespace CmsEpiserverSite.Models.Pages
 {
     /// <summary>
     /// Base class for all page types

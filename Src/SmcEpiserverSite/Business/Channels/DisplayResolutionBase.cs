@@ -2,7 +2,7 @@ using EPiServer.Framework.Localization;
 using EPiServer.ServiceLocation;
 using EPiServer.Web;
 
-namespace SmcEpiserverSite.Business.Channels
+namespace CmsEpiserverSite.Business.Channels
 {
     /// <summary>
     /// Base class for all resolution definitions

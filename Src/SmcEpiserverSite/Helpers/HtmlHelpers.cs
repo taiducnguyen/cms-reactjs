@@ -8,12 +8,12 @@ using System.Web.Mvc;
 using System.Web.WebPages;
 using EPiServer.Core;
 using EPiServer.ServiceLocation;
-using SmcEpiserverSite.Business;
+using CmsEpiserverSite.Business;
 using EPiServer.Web.Mvc.Html;
 using EPiServer.Web.Routing;
 using EPiServer;
 
-namespace SmcEpiserverSite.Helpers
+namespace CmsEpiserverSite.Helpers
 {
     public static class HtmlHelpers
     {

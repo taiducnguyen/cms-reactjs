@@ -1,5 +1,5 @@
 
-namespace SmcEpiserverSite.Models.ViewModels
+namespace CmsEpiserverSite.Models.ViewModels
 {
     /// <summary>
     /// View model for the image file

@@ -1,10 +1,10 @@
 using System.Web.Mvc;
-using SmcEpiserverSite.Models.Pages;
-using SmcEpiserverSite.Models.ViewModels;
+using CmsEpiserverSite.Models.Pages;
+using CmsEpiserverSite.Models.ViewModels;
 using EPiServer.Web;
 using EPiServer.Web.Mvc;
 
-namespace SmcEpiserverSite.Controllers
+namespace CmsEpiserverSite.Controllers
 {
     public class StartPageController : PageControllerBase<StartPage>
     {

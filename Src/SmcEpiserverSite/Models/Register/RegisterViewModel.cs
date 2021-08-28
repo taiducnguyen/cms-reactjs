@@ -1,7 +1,7 @@
 using System.ComponentModel.DataAnnotations;
 using System.Web.Mvc;
 
-namespace SmcEpiserverSite.Models
+namespace CmsEpiserverSite.Models
 {
     public class RegisterViewModel
     {

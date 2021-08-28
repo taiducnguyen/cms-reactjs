@@ -1,8 +1,8 @@
 using System.Collections.Generic;
 using EPiServer.Core;
-using SmcEpiserverSite.Models.Blocks;
+using CmsEpiserverSite.Models.Blocks;
 
-namespace SmcEpiserverSite.Models.ViewModels
+namespace CmsEpiserverSite.Models.ViewModels
 {
     public class PageListModel
     {

@@ -1,12 +1,12 @@
 using System.Web.Mvc;
-using SmcEpiserverSite.Models.Media;
-using SmcEpiserverSite.Models.ViewModels;
+using CmsEpiserverSite.Models.Media;
+using CmsEpiserverSite.Models.ViewModels;
 using EPiServer.Web.Mvc;
 using EPiServer.Web.Routing;
 using System;
 using EPiServer.Core;
 
-namespace SmcEpiserverSite.Controllers
+namespace CmsEpiserverSite.Controllers
 {
     /// <summary>
     /// Controller for the video file.

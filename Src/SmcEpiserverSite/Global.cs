@@ -2,7 +2,7 @@ using EPiServer.DataAnnotations;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
-namespace SmcEpiserverSite
+namespace CmsEpiserverSite
 {
 
     public class Global

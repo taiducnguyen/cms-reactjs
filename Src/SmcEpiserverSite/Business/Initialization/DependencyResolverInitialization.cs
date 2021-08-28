@@ -2,11 +2,11 @@ using System.Web.Mvc;
 using EPiServer.Framework;
 using EPiServer.Framework.Initialization;
 using EPiServer.ServiceLocation;
-using SmcEpiserverSite.Business.Rendering;
+using CmsEpiserverSite.Business.Rendering;
 using EPiServer.Web.Mvc;
 using EPiServer.Web.Mvc.Html;
 
-namespace SmcEpiserverSite.Business.Initialization
+namespace CmsEpiserverSite.Business.Initialization
 {
     [InitializableModule]
     public class DependencyResolverInitialization : IConfigurableModule

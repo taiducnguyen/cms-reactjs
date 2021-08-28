@@ -1,9 +1,9 @@
 using System.Web.Mvc;
-using SmcEpiserverSite.Models.Pages;
-using SmcEpiserverSite.Models.ViewModels;
+using CmsEpiserverSite.Models.Pages;
+using CmsEpiserverSite.Models.ViewModels;
 using EPiServer.Web.Routing;
 
-namespace SmcEpiserverSite.Business
+namespace CmsEpiserverSite.Business
 {
     /// <summary>
     /// Intercepts actions with view models of type IPageViewModel and populates the view models

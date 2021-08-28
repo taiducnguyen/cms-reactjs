@@ -1,6 +1,6 @@
-using SmcEpiserverSite.Business.Rendering;
+using CmsEpiserverSite.Business.Rendering;
 
-namespace SmcEpiserverSite.Models.Pages
+namespace CmsEpiserverSite.Models.Pages
 {
     /// <summary>
     /// Used to logically group pages in the page tree

@@ -1,13 +1,13 @@
 using EPiServer.Core;
 using EPiServer.DataAbstraction;
 using EPiServer.ServiceLocation;
-using SmcEpiserverSite.Controllers;
-using SmcEpiserverSite.Models.Blocks;
-using SmcEpiserverSite.Models.Pages;
+using CmsEpiserverSite.Controllers;
+using CmsEpiserverSite.Models.Blocks;
+using CmsEpiserverSite.Models.Pages;
 using EPiServer.Web;
 using EPiServer.Web.Mvc;
 
-namespace SmcEpiserverSite.Business.Rendering
+namespace CmsEpiserverSite.Business.Rendering
 {
     [ServiceConfiguration(typeof(IViewTemplateModelRegistrator))]
     public class TemplateCoordinator : IViewTemplateModelRegistrator

@@ -3,13 +3,13 @@ using System.Linq;
 using System.Web.Mvc;
 using EPiServer.Core;
 using EPiServer.Filters;
-using SmcEpiserverSite.Business;
-using SmcEpiserverSite.Models.Blocks;
-using SmcEpiserverSite.Models.ViewModels;
+using CmsEpiserverSite.Business;
+using CmsEpiserverSite.Models.Blocks;
+using CmsEpiserverSite.Models.ViewModels;
 using EPiServer.Web.Mvc;
 using EPiServer;
 
-namespace SmcEpiserverSite.Controllers
+namespace CmsEpiserverSite.Controllers
 {
     public class PageListBlockController : BlockController<PageListBlock>
     {

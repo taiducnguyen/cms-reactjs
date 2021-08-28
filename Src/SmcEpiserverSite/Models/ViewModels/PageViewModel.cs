@@ -1,8 +1,8 @@
 using System;
 using EPiServer.Core;
-using SmcEpiserverSite.Models.Pages;
+using CmsEpiserverSite.Models.Pages;
 
-namespace SmcEpiserverSite.Models.ViewModels
+namespace CmsEpiserverSite.Models.ViewModels
 {
     public class PageViewModel<T> : IPageViewModel<T> where T : SitePageData
     {

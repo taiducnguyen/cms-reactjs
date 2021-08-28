@@ -1,5 +1,5 @@
 
-namespace SmcEpiserverSite.Models.Blocks
+namespace CmsEpiserverSite.Models.Blocks
 {
     /// <summary>
     /// Base class for all block types on the site

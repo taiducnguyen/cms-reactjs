@@ -1,11 +1,11 @@
-using SmcEpiserverSite.Models.Blocks;
-using SmcEpiserverSite.Models.Pages;
+using CmsEpiserverSite.Models.Blocks;
+using CmsEpiserverSite.Models.Pages;
 using EPiServer.Cms.TinyMce.Core;
 using EPiServer.Framework;
 using EPiServer.Framework.Initialization;
 using EPiServer.ServiceLocation;
 
-namespace SmcEpiserverSite.Business.Initialization
+namespace CmsEpiserverSite.Business.Initialization
 {
     [ModuleDependency(typeof(TinyMceInitialization))]
     public class ExtendedTinyMceInitialization : IConfigurableModule

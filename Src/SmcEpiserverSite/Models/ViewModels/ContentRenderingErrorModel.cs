@@ -2,7 +2,7 @@ using System;
 using EPiServer;
 using EPiServer.Core;
 
-namespace SmcEpiserverSite.Models.ViewModels
+namespace CmsEpiserverSite.Models.ViewModels
 {
     public class ContentRenderingErrorModel
     {

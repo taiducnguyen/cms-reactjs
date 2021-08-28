@@ -2,7 +2,7 @@ using System.Web.Optimization;
 using EPiServer.Framework;
 using EPiServer.Framework.Initialization;
 
-namespace SmcEpiserverSite.Business.Initialization
+namespace CmsEpiserverSite.Business.Initialization
 {
     [InitializableModule]
     public class BundleConfig : IInitializableModule

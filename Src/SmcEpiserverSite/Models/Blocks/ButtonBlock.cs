@@ -2,7 +2,7 @@ using System.ComponentModel.DataAnnotations;
 using EPiServer.DataAbstraction;
 using EPiServer;
 
-namespace SmcEpiserverSite.Models.Blocks
+namespace CmsEpiserverSite.Models.Blocks
 {
     /// <summary>
     /// Used to insert a link which is styled as a button

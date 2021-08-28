@@ -1,15 +1,15 @@
 using System.Web;
 using System.Web.Mvc;
 using EPiServer.Core;
-using SmcEpiserverSite.Helpers;
-using SmcEpiserverSite.Models.Blocks;
-using SmcEpiserverSite.Models.Pages;
-using SmcEpiserverSite.Models.ViewModels;
+using CmsEpiserverSite.Helpers;
+using CmsEpiserverSite.Models.Blocks;
+using CmsEpiserverSite.Models.Pages;
+using CmsEpiserverSite.Models.ViewModels;
 using EPiServer.Web;
 using EPiServer.Web.Mvc;
 using EPiServer;
 
-namespace SmcEpiserverSite.Controllers
+namespace CmsEpiserverSite.Controllers
 {
     public class ContactBlockController : BlockController<ContactBlock>
     {

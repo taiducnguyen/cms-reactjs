@@ -3,10 +3,10 @@ using EPiServer.DataAbstraction;
 using EPiServer.Filters;
 using EPiServer.Framework.Localization;
 using EPiServer.ServiceLocation;
-using SmcEpiserverSite.Business;
-using SmcEpiserverSite.Models.Blocks;
+using CmsEpiserverSite.Business;
+using CmsEpiserverSite.Models.Blocks;
 
-namespace SmcEpiserverSite.Models.Pages
+namespace CmsEpiserverSite.Models.Pages
 {
     /// <summary>
     /// Presents a news section including a list of the most recent articles on the site

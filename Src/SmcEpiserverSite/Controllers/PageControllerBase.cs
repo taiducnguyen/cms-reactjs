@@ -1,11 +1,11 @@
 using System.Web.Mvc;
-using SmcEpiserverSite.Business;
-using SmcEpiserverSite.Models.Pages;
-using SmcEpiserverSite.Models.ViewModels;
+using CmsEpiserverSite.Business;
+using CmsEpiserverSite.Models.Pages;
+using CmsEpiserverSite.Models.ViewModels;
 using EPiServer.Web.Mvc;
 using EPiServer.Shell.Security;
 
-namespace SmcEpiserverSite.Controllers
+namespace CmsEpiserverSite.Controllers
 {
     /// <summary>
     /// All controllers that renders pages should inherit from this class so that we can

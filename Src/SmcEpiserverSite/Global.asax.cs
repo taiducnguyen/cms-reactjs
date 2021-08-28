@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Web.Mvc;
 
-namespace SmcEpiserverSite
+namespace CmsEpiserverSite
 {
     public class EPiServerApplication : EPiServer.Global
     {

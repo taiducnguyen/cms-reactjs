@@ -6,10 +6,10 @@ using System.Web.Mvc.Html;
 using EPiServer.Core;
 using EPiServer.DataAbstraction;
 using EPiServer.Security;
-using SmcEpiserverSite.Models.ViewModels;
+using CmsEpiserverSite.Models.ViewModels;
 using EPiServer.Web.Mvc;
 
-namespace SmcEpiserverSite.Business.Rendering
+namespace CmsEpiserverSite.Business.Rendering
 {
     /// <summary>
     /// Wraps an MvcContentRenderer and adds error handling to ensure that blocks and other content

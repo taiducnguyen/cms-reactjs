@@ -5,7 +5,7 @@ using EPiServer.Web;
 using System.Collections.Generic;
 using System.Web.Mvc;
 
-namespace SmcEpiserverSite.Business.Initialization
+namespace CmsEpiserverSite.Business.Initialization
 {
     [InitializableModule]
     [ModuleDependency(typeof(EPiServer.Web.InitializationModule))]

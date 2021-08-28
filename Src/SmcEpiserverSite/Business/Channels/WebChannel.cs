@@ -1,7 +1,7 @@
 using System.Web;
 using EPiServer.Web;
 
-namespace SmcEpiserverSite.Business.Channels
+namespace CmsEpiserverSite.Business.Channels
 {
     /// <summary>
     /// Defines the 'Web' content channel
