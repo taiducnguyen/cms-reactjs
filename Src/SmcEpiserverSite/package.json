@@ -1,9 +1,9 @@
 {
-  "name": "litium.accelerator",
+  "name": "cms.episerver",
   "version": "8.0.0-beta-1-2105121436",
-  "readme": "Litium Accelerator",
+  "readme": "Cms Episerver Site",
   "license": "UNLICENSED",
-  "homepage": "https://docs.litium.com",
+  "homepage": "",
   "repository": {},
   "scripts": {
     "lint": "eslint ./Client/Scripts/**/*.js",

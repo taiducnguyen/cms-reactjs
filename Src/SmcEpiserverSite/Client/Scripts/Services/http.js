@@ -15,9 +15,7 @@ const _fetch = (url, method, data = null, abortController = null) => {
     let options = {
         method,
         headers: {
-            'litium-request-context': JSON.stringify(
-                window.__appstate.requestContext
-            ),
+           
         },
         credentials: 'include',
     };
