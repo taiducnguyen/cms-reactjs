@@ -9,3 +9,5 @@ Run:
 - yarn build
 
 Go to project start website by Crtl + F5
+
+Account to login cms: episerver/Niteco@123
